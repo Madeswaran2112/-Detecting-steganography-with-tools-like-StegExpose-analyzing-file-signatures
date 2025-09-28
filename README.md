@@ -47,9 +47,10 @@ java -jar StegExpose.jar suspect.jpg
 ## OUTPUT:
 List of Images with Steganography Detection Scores and File Signature Details
 
+![WhatsApp Image 2025-09-27 at 15 21 59_9e09ef8f](https://github.com/user-attachments/assets/695769f4-7a0b-4942-b880-5bd24b843f97)
 
 ![WhatsApp Image 2025-09-27 at 15 21 55_0eee86b7](https://github.com/user-attachments/assets/7e186544-6db7-46ee-aec8-3d132c2a269c)
-![WhatsApp Image 2025-09-27 at 15 21 59_9e09ef8f](https://github.com/user-attachments/assets/695769f4-7a0b-4942-b880-5bd24b843f97)
+
 
 ![WhatsApp Image 2025-09-27 at 15 21 52_f3e5fd5b](https://github.com/user-attachments/assets/ee7ab275-b997-4548-b5fd-a37b24dbd82c)
 
